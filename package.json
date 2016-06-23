@@ -1,0 +1,16 @@
+{
+  "name": "logosprachenschule.de",
+  "description": "www.logosprachenschule.de",
+  "version": "0.1.0",
+  "author": "Roman Cieslik<post@romancieslik.de>",
+
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-browser-sync": "^1.5.3",
+    "grunt-contrib-sass": "latest",
+    "grunt-contrib-watch": "latest",
+    "grunt-contrib-cssmin": "latest",
+    "grunt-slim": "latest",
+    "load-grunt-tasks": "latest"
+  }
+}

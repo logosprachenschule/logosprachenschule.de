@@ -1,0 +1,9 @@
+{
+  "name": "logosprachenschule.de",
+  "dependencies": {
+    "jquery": "2.2.0",
+    "tether": "1.1.1",
+    "bootstrap": "4.0.0-alpha.2",
+    "font-awesome": "git+https://github.com/FortAwesome/Font-Awesome.git"
+  }
+}
